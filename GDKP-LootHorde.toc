@@ -1,0 +1,7 @@
+## Interface: 20503
+## Title: GDKP-LootHorde
+## Notes: GDKP addon for community LootHorde - Flamegor
+## Author: Yeop3 (Хелказаг)
+## Version: v0.01 alfa
+
+main.lua
